@@ -1,8 +1,11 @@
 body {
     font-family: Arial;
     padding-top: 100px;
-
+    background-color: #000000!important;
 }
+
+
+
 
 footer {
     margin-top: 40px;
@@ -66,8 +69,9 @@ caption p {
     min-height: 40px;
 }
 
-    
-
+.navbar {
+    background-color:orange!important;
+}
 
 
 

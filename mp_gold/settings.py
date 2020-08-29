@@ -146,7 +146,8 @@ STATICFILES_DIRS = [
      os.path.join(BASE_DIR, "static")
  ]
 
-# AWS_DEFAULT_ACL = NONE
+AWS_DEFAULT_ACL = None
+
 AWS_S3_OBJECT_PARAMETERS = {
     'Expires': 'Thu, 31 Dec 2099 20:00:00 GMT',
     'CacheControl': 'max-age=94608000'
