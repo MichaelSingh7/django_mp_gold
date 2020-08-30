@@ -69,11 +69,14 @@ caption p {
     min-height: 40px;
 }
 
-.navbar {
+#navbar {
     background-color:orange!important;
+    margin-left: -190px;
+    margin-right: -190px;
 }
 
-
-
-
+.navbar-right {
+    float: right !important;
+    margin-right: 19px;
+}
 
