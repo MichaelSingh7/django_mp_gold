@@ -1,39 +1,48 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+## Milestone Project Gold
 
-Welcome MichaelSingh7,
+# Motivation
+_I created this project to allow users to make purchases through the webiste. For a good user experience I wanted to allow the user to 
+create an account, reset password, login, logout, add items to the cart and then checkout. I chose to use a very simplistic approach so 
+it was easy to navigate around._     
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+# Naming And inspiration
 
-## Gitpod Reminders
+I chose this name due to the software name given my many companies to the software update they release, gold meaning the final version as this 
+is my final project. To me this was the best name I could of given as this being my last project I went "milestoneprojectgold"_
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+### Navigation Bar
+_For my page I wanted to keep a simple feel to the website so I placed the title to the left, and on the right hand side went with links
+as I feel most websites user have been on have links placed on this side. I felt this would users a familarity when navigating through my website.
+The colour scheme I chose goes really well as its a bright orange and the black background combines with it quite well._
 
-A blue button should appear to click: *Make Public*,
+## Credits
+_This is a project which was created only for a project purpose and the images have been used which all credits go microsoft xbox and sony
+playstation. I do not take credit for any of the content and the content was just used as I wanted to create console gift card website
+where the user can make purchases.
 
-Another blue button should appear to click: *Open Browser*.
+## Backgrounds
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+_For my final project I trialled a number of backgrounds but I decided to go with a black background as I felt it would work well with
+ the orange I chose for the navigation bar. The colours were difficult because I wanted a gaming site feel and at the same time I did not
+ want to use a blue or green because those colours are associated with the xbox and playstation. In the end I went with a black background
+ as the white boxes which the gift card names and descriptions are included in. The white boxes really stand out with the black colour, giving
+ my site a really strong colour scheme for the user to experience as they are navigation around. I did have diffiuclty with this, as normally
+ any changes made to my css file would show up. On this occasion when ever I made a change I had to enter the code python3 manage.py collectstatic
+into the terminal so it would save the changes made, then python3 manage.py runserver so I can view the changes on the developmental server.
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+# Technologies
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+#### HTML
 
-## Updates Since The Instructional Video
+_This was used to create a structure for my page, which I could build on to later using css
+to add colour and styling to the page (see below)._
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+#### CSS
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+_I used css style sheet which is a file that basically includes all my styles that add sytling, 
+images, fonts etc. to the page. The css used on here gave my page styling as you see in the border style
+I have used at start of my page._
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
