@@ -1,6 +1,7 @@
 ## Milestone Project Gold
 
 # Motivation
+
 _I created this project to allow users to make purchases through the webiste. For a good user experience I wanted to allow the user to 
 create an account, reset password, login, logout, add items to the cart and then checkout. I chose to use a very simplistic approach so 
 it was easy to navigate around._     
@@ -12,11 +13,13 @@ is my final project. To me this was the best name I could of given as this being
 
 
 ### Navigation Bar
+
 _For my page I wanted to keep a simple feel to the website so I placed the title to the left, and on the right hand side went with links
 as I feel most websites user have been on have links placed on this side. I felt this would users a familarity when navigating through my website.
 The colour scheme I chose goes really well as its a bright orange and the black background combines with it quite well._
 
 ## Credits
+
 _This is a project which was created only for a project purpose and the images have been used which all credits go microsoft xbox and sony
 playstation. I do not take credit for any of the content and the content was just used as I wanted to create console gift card website
 where the user can make purchases.
@@ -55,6 +58,7 @@ could type in thier details. Also, it would print an error message if users ente
 "stripe-error-message"._
 
 #### AWS
+
 _This was the hardest part as I had some issues with my images not showing up due to access denied status, the images would show up on aws but 
 not when the user was view the products. For this technology to work I had to create a bucket which is basically an area that included my saved
 files for them to be pushed back to the user for them to view. Once I had done since I had to generated code for my bucket policy using the on-site
@@ -67,12 +71,14 @@ be saved for me then to view this on the developmental server._
 
 
 #### FONT AWESOME
+
 _I used font awesome to help me that styling, this made it whole lot easier I simply placed this along with other scripts in my "base.html" file
 which used a block element and I placed this in other files so all the code in "base.html" would move other. In terms of font awesome, using span tags
 and i classes I could simply use names of icons from font awesome and as I had the script in "base.html" it would add the icons bringing my forms
 to life, just adding to the whole visual experience of the user._
 
 ####  BOOTSTRAP
+
 _The bootstrap technology was very smart in allowing my to use the code generated on their site to build a navigation bar easily and quickly. 
 It is very effective because it does the hard work for you, as you are simply using a script like font awesome and that will allow the changes
 to be pulled through. Bootstrap is really useful as you can simply add text the div for your navigation and it will do the rest for you._
@@ -106,12 +112,14 @@ _I used gitpod to save all my repositories which meant if I ever lost the code, 
 This would create a brand new workspace allowing me to work on my code within the gitpod ide._
 
 #### GITPOD
+
 _The gitpod ide I had to use as I was instructed to do so due to cloud9 no longer been available. I have had many issues using this ide as the videos
 I used were based on cloud9 but I was working on gitod. This was hard as sometimes videos were asking me to create a bashfile and access hidden folders,
 when asked was told this not possible on gitpod. I did find it difficult as the errors gitpod bought up were not showing on cloud9. The good part of gitpod I liked
 was I can push the code without having to log on github, by simply using "git push" in my terminal.
 
 # DEPLOYMENT
+
 _I pushed my code online using gitpod, once I could access the terminal I entered "git status", this showed me which files I had not commited. This was helpful as
 this showed me the files allthe files that were not pushed in a red colour, using the code "git commit -m "[commit message here]" I could push the code online. 
 After this had been done, I would enter  "python3 manage.py runserver" to access the developmental server. Finally,by clicking on the ports in bottom right 
@@ -133,8 +141,10 @@ _The images used for my website were taken online from "https://i.pinimg.com/ori
 I do not take credit for any images used above in them links listed._
 
 #### ACKNOWLEDGEMENTS
+
 _A big thank to all the tutors at code institute support, as I extreme difficulty completing this due to my personal health and situation but am
 happy to be able to complete this project. This has been a big journey into the world of coding, I have given everything to this from working in the
 mornings on my code, to finishing my job and carry on coding in the evening. I just want to say also big thank you to the mentors I have worked with
 and hope I carry my journey in become a succesfull developer in the near future._
+
 # Created and Edited by Michael Singh
