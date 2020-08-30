@@ -102,20 +102,21 @@ when positioning my product boxes and also making changes to my navigation. I fe
 
 #### GITHUB
 
-_I found github to be of great use here as I could roll back data if I needed to. This was good to have this because I could see where I have gone wrong.
-Using terminal on gitpod I checked which of my files were commited by using (git status).This allowed me to then add my files using (git add .) and then using 
-(git status) again I could see they have been submitted. To complete this I would then use ("git push") which allowed my changes to be submitted so my site can 
-be viewed online. I really found this to be much easier with gitpod intergration as I did not need to log on, which before could be difficult as your password your 
-typing does not show up on screen. I did not need to manaully create a repository as this was already done as I created the workspace through github then selecting clone
-which is plugin linking my github with my gitpod._
+_I used gitpod to save all my repositories which meant if I ever lost the code, I could simply click on the repository I want and then open in gitpod.
+This would create a brand new workspace allowing me to work on my code within the gitpod ide._
+
+#### GITPOD
+_The gitpod ide I had to use as I was instructed to do so due to cloud9 no longer been available. I have had many issues using this ide as the videos
+I used were based on cloud9 but I was working on gitod. This was hard as sometimes videos were asking me to create a bashfile and access hidden folders,
+when asked was told this not possible on gitpod. I did find it difficult as the errors gitpod bought up were not showing on cloud9. The good part of gitpod I liked
+was I can push the code without having to log on github, by simply using "git push" in my terminal.
 
 # DEPLOYMENT
+_I pushed my code online using gitpod, once I could access the terminal I entered "git status", this showed me which files I had not commited. This was helpful as
+this showed me the files allthe files that were not pushed in a red colour, using the code "git commit -m "[commit message here]" I could push the code online. 
+After this had been done, I would enter  "python3 manage.py runserver" to access the developmental server. Finally,by clicking on the ports in bottom right 
+corner, I select port 8000, then click open browser to view the code online.
 
-_Using gitpod I pushed my project online, using the terminal I entered "git status", to see which files I had not commited, this showed me the files that were not pushed
-in a red colour, I used "git commit -m "[commit message here]", After this I pushed the project online by using command "git push". This I found very easy to do as my gitpod is    
-connected to my github, I had an issue with my workspace dissapearing, so I went online to github and using the gitpod plugin, It allow me to select the button and push
-my github repository onto gitpod. After this had been done, now I can run my code " index.html" file, by simply entering into the terminal " python3 -m http.server, then clicking
-in the bottom blue toolbar onto the ports section, expose the port 8000, then this will allow it to  be run in a browser to view " index.html"._
 #### CONTENT
 
 _The information entered for my product description have been taken from the sources in the links found below, these were simply used for 
