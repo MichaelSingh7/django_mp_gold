@@ -62,11 +62,11 @@
         <div class="display">
         <div class="search value">
         <p>Enter Gift Card Name</p>
+        <br>
         </div>
             <form action="{% url 'search' %}" method="get">
                 <input type="text" name="q">
                 <button type="search">Search</button>
-                <br>
             </form>
         </div>
         {% block content %} {% endblock %}
