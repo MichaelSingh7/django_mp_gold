@@ -89,6 +89,7 @@ if "DATABASE_URL" in os.environ:
         "default": dj_database_url.parse(os.getenv("DATABASE_URL"))
     }
 else:
+    print("Database URL not found. Using SQLite instead")
     DATABASES = {
         "default": {
             "ENGINE": "django.db.backends.sqlite3",
