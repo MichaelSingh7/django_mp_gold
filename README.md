@@ -127,17 +127,14 @@ corner, I select port 8000, then click open browser to view the code online.
 
 #### CONTENT
 
-_The information entered for my product description have been taken from the sources in the links found below, these were simply used for 
-project purposes and again no credit taken for these links listed below:
-"https://www.argos.co.uk/product/1251731" and "https://www.argos.co.uk/product/4999186", some of the information was used and edited again
-for purpose of this project._
+_The information entered for my product description have been taken from google engine search sources these were simply used for 
+project purposes and again no credit taken for these_.
 
 # CREDITS
 
 #### MEDIA
 
-_The images used for my website were taken online from "https://i.pinimg.com/originals/a6/74/16/a67416d326106bd2638b9ba14d252cf4.jpg" and 
-"https://miro.medium.com/max/1280/1*nnbVjvhYDduj0KKBTvhiDQ.jpeg", these images were found through a search on  "https://www.google.com/". 
+_The images used for my website were taken online a search that was found through "https://www.google.com/". 
 I do not take credit for any images used above in them links listed._
 
 #### ACKNOWLEDGEMENTS
