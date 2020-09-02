@@ -116,19 +116,20 @@ This would create a brand new workspace allowing me to work on my code within th
 _The gitpod ide I had to use as I was instructed to do so due to cloud9 no longer been available. I have had many issues using this ide as the videos
 I used were based on cloud9 but I was working on gitod. This was hard as sometimes videos were asking me to create a bashfile and access hidden folders,
 when asked was told this not possible on gitpod. I did find it difficult as the errors gitpod bought up were not showing on cloud9. The good part of gitpod I liked
-was I can push the code without having to log on github, by simply using "git push" in my terminal.
+was I can push the code without having to log on github, by simply using "git push" in my terminal._
+
 
 # DEPLOYMENT
 
 _I pushed my code online using gitpod, once I could access the terminal I entered "git status", this showed me which files I had not commited. This was helpful as
 this showed me the files allthe files that were not pushed in a red colour, using the code "git commit -m "[commit message here]" I could push the code online. 
 After this had been done, I would enter  "python3 manage.py runserver" to access the developmental server. Finally,by clicking on the ports in bottom right 
-corner, I select port 8000, then click open browser to view the code online.
+corner, I select port 8000, then click open browser to view the code online._
 
 #### CONTENT
 
 _The information entered for my product description have been taken from google engine search sources these were simply used for 
-project purposes and again no credit taken for these_.
+project purposes and again no credit taken for these._
 
 # CREDITS
 
